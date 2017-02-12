@@ -1,2 +1,5 @@
 node_modules
 exampleSite/themes
+.Rproj.user
+README.html
+hugo-theme-bootstrap4-carousel.Rproj

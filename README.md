@@ -1,7 +1,12 @@
-# Hugo Bootstrap v4 Blog
-A simple [Hugo](https://gohugo.io) theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog).
+# Hugo Bootstrap v4 Carousel
 
-![Screenshot](https://raw.githubusercontent.com/alanorth/hugo-theme-bootstrap4-blog/master/screenshot.png "Screenshot")
+A simple [Hugo](https://gohugo.io) theme based on the [Bootstrap v4 Carousel example](http://v4-alpha.getbootstrap.com/examples/carousel).
+
+![Screenshot](http://v4-alpha.getbootstrap.com/examples/screenshots/carousel.jpg "Screenshot")
+
+This is a fork of [alanorth/hugo-theme-bootstrap4-blog](https://github.com/alanorth/hugo-theme-bootstrap4-blog) which was based on the [Bootstrap v4 Blog example](http://v4-alpha.getbootstrap.com/examples/blog).
+
+![Screenshot](http://v4-alpha.getbootstrap.com/examples/screenshots/blog.jpg)
 
 See [picturingjordan.com](https://picturingjordan.com) for an example of this theme in use.
 
